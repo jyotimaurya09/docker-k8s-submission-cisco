@@ -1,0 +1,22 @@
+{
+  "name": "docker-k8s-submission-cisco",
+  "version": "1.0.0",
+  "description": "This is a base template for CWiCS BOOST 2.0 Docker and Kubernetes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jyotimaurya09/docker-k8s-submission.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jyotimaurya09/docker-k8s-submission/issues"
+  },
+  "homepage": "https://github.com/jyotimaurya09/docker-k8s-submission#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
